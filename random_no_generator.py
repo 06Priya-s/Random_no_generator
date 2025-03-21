@@ -26,7 +26,7 @@ def check_guess():
 # Create GUI window
 root = tk.Tk()
 root.title("Number Guessing Game 🎯")
-root.geometry("400x300")
+root.geometry("700x500")
 
 # GUI Components
 title_label = tk.Label(root, text="Guess a number between 1 and 100!", font=("Arial", 14))
